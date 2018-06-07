@@ -1,0 +1,15 @@
+{
+  "name": "exercise-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Slobodan Stojanović <slobodan@cloudhorizon.com> (http://slobodan.me)",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-api-builder": "^4.0.2"
+  }
+}
